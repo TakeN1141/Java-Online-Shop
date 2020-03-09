@@ -1,0 +1,43 @@
+<clothes>
+    _Jeans
+        *Jack and Jones jeans,100.99,images/jackAndJones.jpg
+        *Christian Dior pants,50.00,images/diorPants.jpg
+    _Shirts
+         *Jack and Jones,9.99,images/jackAndJones.jpg
+         *Christian Dior,25.00,images/dior.jpg
+    _Jacks
+
+         *Burberry jacket,500.00,images/burberryJacket.jpg
+         *Christian Dior jacket,800.00,images/diorJacket.jpg
+
+</clothes>
+<electronics>
+    _laptops
+
+
+        *Acer Aspire 5750G,1000.99,images/acer5750G.jpg
+        *Lenovo V13015IGM,1500.99,images/lenovo.jpg
+        *Acer Aspire 3 A31553G35VX,2000.00,images/acer3.jpg
+
+    _smartphones
+        *Samsung Galaxy S9,1600.99,images/samsung.jpg
+        *LG G5,1200.99,images/lg.jpg
+        *Xiaomi Redmi Note 5 Pro,400.00,images/xiaomi.jpg
+</electronics>
+<cars>
+    _Audi
+        *Audi A5 Sportback 3.2 FSI,22000.50,images/audiA5.jpg
+        *Audi A5 Sportback 2.0 TFSI,18000.50,images/audiA5t.jpg
+        *Audi A6 Combi 4.8TFSI,18000.50,images/audiA6T.jpg
+
+    _BMW
+        *BMW 325i sedan 3.0 TDI , 21000.40,images/bmw3series.jpg
+        *BMW 3525i sedan 3.0 TDI , 27000.40,images/bmw5series.jpg
+        *BMW 750li sedan 4.7 TDI , 21000.40,images/bmw3series.jpg
+</cars>
+<shoes>
+    _casual
+        *Nike AirMax ,230.50 , images/nikeairmax.jpg
+        *Adidas Memory , 170.50 , images/adidasmemory.jpg
+        *Puma Ultra , 130.20 , images/pumaultra.jpg
+
